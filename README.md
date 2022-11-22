@@ -15,4 +15,4 @@ Future updates to this code will include the following:
 ## <a href="https://jsdavis92.github.io/Eyes-Exercise/">Run Eyes App</a>
   
 
-[LICENSE-MIT.txt](https://github.com/jsdavis92/Eyes-Exercise/files/10070821/LICENSE-MIT.txt)
+### <a href="https://jsdavis92.github.io/Eyes-Exercise/">Run Eyes App</a>
