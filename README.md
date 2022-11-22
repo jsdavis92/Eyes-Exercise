@@ -9,7 +9,10 @@ Future updates to this code will include the following:
 <ul>
 <li> Adding a relative gradient feature that will change the color of the eyes dynamically as your cursor moves to different areas of the page.</li>
 <ul>
+
+  <br></br>
   
+<a href="https://jsdavis92.github.io/Eyes-Exercise/">Run Eyes App</a>
   
-  
-<a href="https://jsdavis92.github.io/Eyes-Exercise/">Click Here To Open The Eyes App</a>
+
+[LICENSE-MIT.txt](https://github.com/jsdavis92/Eyes-Exercise/files/10070821/LICENSE-MIT.txt)
